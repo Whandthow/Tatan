@@ -1,0 +1,5 @@
+Id: R-101 Range: 400 Type: GROUND
+Id: A-50 Range: 650 Type: AIR
+Id: S-77 Range: 300 Type: SEA
+Id: R-202 Range: 1200 Type: GROUND
+Id: A-100 Range: 800 Type: AIR
