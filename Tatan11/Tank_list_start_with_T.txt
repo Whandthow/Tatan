@@ -1,0 +1,3 @@
+Model: T-80 Armor Thickness: 450 Tank Type: HEAVY
+Model: T-64 Armor Thickness: 200 Tank Type: MEDIUM
+Model: T-72 Armor Thickness: 350 Tank Type: HEAVY
